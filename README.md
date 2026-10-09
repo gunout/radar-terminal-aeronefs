@@ -21,6 +21,13 @@ Un radar ASCII haute définition qui affiche en temps réel la position des aér
 
 ---
 
+## SCREENSHOTS
+
+<img width="742" height="1008" alt="RADARAERO" src="https://github.com/user-attachments/assets/df622c2a-aa16-48ea-9ab0-cb93f3459b1f" />
+
+
+---
+
 ## 📖 À propos
 
 Ce projet permet de **visualiser en temps réel** les aéronefs en vol, directement depuis un terminal. Il utilise :
